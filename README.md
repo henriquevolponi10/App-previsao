@@ -6,6 +6,10 @@ Este projeto é uma aplicação web simples para monitorar o clima e a umidade d
 
 A aplicação faz uso de uma API de clima para obter dados de clima e umidade em tempo real. Esses dados são então exibidos na interface do usuário, que é construída usando HTML e CSS. O JavaScript é usado para fazer as solicitações à API e para manipular o DOM para atualizar a interface do usuário.
 
+## Foto da pagina:
+
+![imagem-projeto-previsao](https://github.com/henriquevolponi10/App-previsao/assets/141272629/e65fb8d3-cc65-4e3c-97d1-020745a1fca7)
+
 ## Instruções de instalação
 
 1. Clone o repositório para o seu local de trabalho.
